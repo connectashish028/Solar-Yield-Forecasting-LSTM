@@ -84,3 +84,6 @@ Two LSTM models were developed using a sliding window approach to forecast daily
 
 This notebook offers a comprehensive analysis of solar plant performance, pinpointing key issues and providing robust LSTM-based yield forecasting models. While Model 2 showed improved accuracy, further analysis and refinement of the models could improve performance even more, enabling better predictive maintenance and operational efficiency.
 
+## Data Source
+The data used for this analysis can be accessed from "https://www.kaggle.com/datasets/anikannal/solar-power-generation-data"
+
